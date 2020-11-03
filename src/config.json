@@ -1,0 +1,10 @@
+{
+  "api": { 
+    "invokeUrl": "https://fp9012mhhb.execute-api.us-west-1.amazonaws.com/prod"
+  },
+  "cognito": {
+    "REGION": "us-east-1",
+    "USER_POOL_ID": "us-east-1_olDekb9qn",
+    "APP_CLIENT_ID": "7nfv5ss05mrh1p6t254rjt15qu"
+  }
+}
